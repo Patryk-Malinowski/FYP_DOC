@@ -78,6 +78,7 @@ Utilize the online course. Again this is the best source to get familiar with th
 Stackoverflow and Slack provide you with a way to ask questions about issues you cannot solve, or find existing issues with potential solutions. Very useful, and because the community is quite small there isn't really any other place to find help.
 
 [Stackoverflow](https://stackoverflowteams.com/c/duckietown/questions)
+
 [Contact Page](https://duckietown.com/contact/)
 
 
