@@ -2,7 +2,7 @@
 
 ## Creating Duckietown Account
 
-I had to use my GitHub account to sign up on the Duckietown website.
+I had to use my GitHub account to sign up on the Duckietown website. It would not let me sign up normally.
 
 [Duckietown Sign Up](https://hub.duckietown.com/signup/)
 
