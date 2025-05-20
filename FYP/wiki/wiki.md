@@ -40,7 +40,7 @@ You may have to twist the ribbon cable to have the blue end in the correct orien
 
 ## Issues you can ignore
 
-### Display changes | -> #
+### Display changes | -> \#
 
 Doesn't seem to impact usability.
 

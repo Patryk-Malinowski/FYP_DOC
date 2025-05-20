@@ -16,6 +16,7 @@ This is my file structure, clearly missing a `template_ros` directory.
 
 Following the assembly instructions for Duckiebot DB21J the camera wiring is incorrect and my display would never display.
 ![Incorrect Display Wiring](../images/display_wiring_incorrect.png)
+
 [Link to documentation at time of writing](https://docs.duckietown.com/daffy/opmanual-duckiebot/assembly/db21j/index.html#top-deck-assembly)
 
 The correct wiring below:
@@ -67,7 +68,7 @@ The display used `|` to indicate cpu usage etc. but after the update it uses `#`
 
 ### Flashing lights
 
-Possibly related to the constant connectivity issues? Lights turn off briefly and switch back on when nothing else is going on with the duckiebot.
+Probably related to the missing components errors.
 
 ### Missed generated Token
 
