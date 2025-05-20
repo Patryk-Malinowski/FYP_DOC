@@ -30,8 +30,6 @@ Black - Red - Yellow - Blue
 
 The ribbon cable you get in the kit does not have the blue ends on one side as shown in the image.
 
-TODO: Insert image of actual ribbon cable?
-
 
 ![Confusing Camera Assembly 2](../images/camera_assembly_2.png)
 
@@ -64,8 +62,6 @@ Shows unhealthy components although the ToF sensor works and everything is conec
 The display used `|` to indicate cpu usage etc. but after the update it uses `#`. There seems to be no fix at time of writing. Other people mention it in stack overflow.
 
 
-TODO: MAKE IMAGES SMALLER
-TODO: GET SHARPER IMAGE OF DISPLAY WITH `|`
 ![Display Using |](../images/display_using_pipe.jpeg)
 ![Display Using #](../images/display_using_hash.jpeg)
 
@@ -87,11 +83,24 @@ Also because of this, I ended up using a dt2 token but it turns out there are is
 ![Confusing Documentation Regarding Tokens](../images/documentation_says_dt1_token_command_says_dt2_token.png)
 
 
+In general there are little things in Duckietown that have been missed. Like the hints when generating a token all say they refer to minutes.
+
+![Incorrect Hints in Token Generation](../images/token_generation_has_incorrect_hints.png)
+
 ### Unable to create a duckietown account
 
 I **HAD** to use my github account to create a Duckietown account.
 
 If you don't already have a github account, it might be a good idea to set one up now.
+
+### Connection Issues
+
+![Connection Issues](../images/connection_issues1.png)
+
+![Connection Issues 2](../images/ping_duckiebot_packet_loss.png)
+
+![Connection Issues 3](../images/connection_randomly_dropping_1.png)
+
 
 ## General Things
 
